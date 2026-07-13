@@ -1,0 +1,5 @@
+{
+  "python.defaultInterpreterPath": "c:/Users/Anchal paswan/Desktop/Data Analysis Using Python/.venv/Scripts/python.exe",
+  "python.terminal.activateEnvironment": true,
+  "jupyter.jupyterCommandLineArguments": ["--no-browser"]
+}
